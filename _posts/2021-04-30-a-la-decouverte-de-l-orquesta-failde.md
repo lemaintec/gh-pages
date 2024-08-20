@@ -11,7 +11,7 @@ tags:
 - Le Monde
 - Orquesta Failde
 - Ethiel Failde
-description: 'Descendant de Miguel Failde, créateur du danzón, Ethiel Failde a pour ambition de remettre au goût la danse national de Cuba.'
+description: Descendant de Miguel Failde, créateur du danzón, Ethiel Failde a pour ambition de remettre au goût la danse national de Cuba.
 ---
 
 J'ai rencontré Ethiel Failde à l'hiver 2020. J'avais découvert le jeune flûtiste grâce à "Danzoneando", l'émission sur le danzon qu'il animait tous les samedis à 13h sur Radio Taino . Une rencontre sans idée d'article derrière la tête, comme j'aime faire lorsque un artiste attire mon attention. Un jeune homme affable et serviable, bien dans ses baskets. Le courant est passé quand je lui ai dit : J'aime bien ce que tu fais mais je te préviens, si ça ne me plait pas, je n'écrirais pas. Il a aimé cette franchise. Depuis nous sommes restés en contact. Coup de chance, j'ai adoré "Failde con Tumbao", sa nouvelle production. Et puis la pandémie est arrivée. 
